@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Felix561
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Felix561/Felix561 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### About Me
+
+Hey there! 👋 I'm Felix S., a Renewable Energy Engineering student currently pursuing my Bachelor of Engineering degree. Based in Bavaria, Germany, I'm passionate about the convergence of artificial intelligence and renewable energy applications. From optimizing energy efficiency to advancing sustainable solutions, I'm dedicated to making a positive impact in the world of renewable energy.
+
+Feel free to reach out if you want to connect or collaborate!
+
+---
