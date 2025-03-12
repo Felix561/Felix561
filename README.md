@@ -1,10 +1,14 @@
 
 ---
+### Hi, I'm Felix. 👋  
 
-### About Me
+I'm deeply fascinated by learning systems—how they work, how they fail, and what fundamental principles drive today's impressive AI capabilities. My interests range from **Deep Learning** and **Deep Reinforcement Learning** to the theoretical underpinnings of intelligence itself.  
 
-Hey there! 👋 I'm Felix S., a Renewable Energy Engineering student currently pursuing my Bachelor of Engineering degree. Based in Bavaria, Germany, I'm passionate about the convergence of artificial intelligence and renewable energy applications. From optimizing energy efficiency to advancing sustainable solutions, I'm dedicated to making a positive impact in the world of renewable energy.
+> **The most interesting question to me:**  
+> Is *"just"* pure interpolative, high-dimensional pattern matching enough to achieve AGI?  
 
-Feel free to reach out if you want to connect or collaborate!
+Here, I’ll showcase some personal projects, experiments, and thoughts on these topics.  
+Always happy to discuss ideas—feel free to connect! 🚀  
+
 
 ---
