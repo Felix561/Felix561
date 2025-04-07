@@ -7,7 +7,7 @@ I'm currently pursuing my **MSc in Artificial Intelligence** and I am deeply fas
 > Is *"just"* pure interpolative, high-dimensional pattern matching enough to achieve AGI?  
 
 Here, I’ll showcase some personal projects, experiments, and thoughts on these topics.  
-Always happy to discuss ideas—feel free to connect! 🚀  
+Always happy to discuss ideas—feel free to connect! 
 
 
 
